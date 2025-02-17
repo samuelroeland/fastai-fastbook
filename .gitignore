@@ -10,3 +10,5 @@ __pycache__/
 .ipynb_checkpoints/
 fastai-env/
 *.dylib
+fastai-env/
+*.dylib
